@@ -1,0 +1,15 @@
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\bin\Debug\net6.0\BasicStringProcessingExercises.exe
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\bin\Debug\net6.0\BasicStringProcessingExercises.deps.json
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\bin\Debug\net6.0\BasicStringProcessingExercises.runtimeconfig.json
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\bin\Debug\net6.0\BasicStringProcessingExercises.dll
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\bin\Debug\net6.0\BasicStringProcessingExercises.pdb
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.csproj.AssemblyReference.cache
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.AssemblyInfoInputs.cache
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.AssemblyInfo.cs
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.csproj.CoreCompileInputs.cache
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.dll
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\refint\BasicStringProcessingExercises.dll
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.pdb
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\BasicStringProcessingExercises.genruntimeconfig.cache
+C:\Git\BasicStringProcessingExercises\BasicStringProcessingExercises\obj\Debug\net6.0\ref\BasicStringProcessingExercises.dll
